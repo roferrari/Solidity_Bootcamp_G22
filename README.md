@@ -4,5 +4,12 @@
 
 2. Mirar el video de la presentación.
 
-3. Abrir el código .sol en donde se deben ejecutar los siguientes pasos:
+3. Abrir el código VotacionConcursoTalento.sol en donde se deben ejecutar los siguientes pasos:
+
+  a) Deploy del Smart Contract.
+  b) Copy del address del owner del contrato (jurado) en el parámetro "permisoVotar".
+  c) Elegir un número del 1 al 5 correspondiente al candidato para votar.
+  d) Ejecutarlo un máximo de 10 veces, que sería la cantidad de jurados.
+  e) Felicitaciones! El candidato X ha ganado el concurso. 
+  
 
